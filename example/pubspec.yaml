@@ -1,0 +1,9 @@
+name: firestore_api_converter_example
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  dump: ^0.1.6
+  firestore_api_converter: { path: .. }

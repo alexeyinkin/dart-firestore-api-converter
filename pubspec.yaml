@@ -1,0 +1,11 @@
+name: firestore_api_converter
+description: A pure-Dart converter to use encode and decode data for Firestore REST API.
+version: 0.1.0
+repository: https://github.com/alexeyinkin/dart-firestore-api-converter
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.24.6
+  total_lints: ^3.1.0
